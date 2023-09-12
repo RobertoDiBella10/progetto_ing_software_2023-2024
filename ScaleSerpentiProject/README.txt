@@ -1,0 +1,1 @@
+Per avviare l'applicazione basta eseguire la classe ScaleSerpentiApplication che si trova nel path src\main\java\com\example\scaleserpentiproject
